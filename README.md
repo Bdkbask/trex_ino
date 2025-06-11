@@ -4,7 +4,7 @@ This project is a minimalist version of the classic Google Chrome T-Rex game, bu
 
 ## 🎮 Demo
 
-![Gameplay Demo](assets/demo-trex.gif)
+![Gameplay Demo](assets/demo_trex.gif)
 
 ---
 
