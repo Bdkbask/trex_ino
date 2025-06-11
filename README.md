@@ -35,5 +35,6 @@ This project is a minimalist version of the classic Google Chrome T-Rex game, bu
 - Add a buzzer for sound effects  
 - Optimize power consumption to extend battery life  
 - Increase difficulty over time (e.g., faster obstacles)
+- Make sure you never get impossible obstacles to jump
 
 
